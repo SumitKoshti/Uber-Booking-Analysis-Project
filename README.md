@@ -9,25 +9,25 @@ Understand Booking Trends:
 1. Identify daily, weekly, and peak-hour trends in bookings during December.
 
 2. Analyze Cancellations:
--Evaluate the volume of cancellations by customers and drivers.
--Explore reasons for cancellations and assess the impact on overall operations.
+a. Evaluate the volume of cancellations by customers and drivers.
+b. Explore reasons for cancellations and assess the impact on overall operations.
 
 3. Geographical Insights:
--Determine the most and least popular pickup and drop-off locations in Pune.
--Identify high-demand zones and areas requiring better service coverage.
+a. Determine the most and least popular pickup and drop-off locations in Pune.
+b. Identify high-demand zones and areas requiring better service coverage.
 
-4.Driver Performance Analysis:
--Assess the performance of drivers in terms of trip completions and cancellations.
--Explore driver behavior and its correlation with customer satisfaction.
+4. Driver Performance Analysis:
+a. Assess the performance of drivers in terms of trip completions and cancellations.
+b. Explore driver behavior and its correlation with customer satisfaction.
 
-5.Customer Behavior Analysis:
--Investigate booking patterns based on customer demographics, if available.
--Identify customer preferences, such as trip lengths, time of day, or ride type.
+5. Customer Behavior Analysis:
+a. Investigate booking patterns based on customer demographics, if available.
+b. Identify customer preferences, such as trip lengths, time of day, or ride type.
 
-6.Revenue Insights:
--Calculate the total revenue generated during December.
--Analyze fare trends to understand the impact of peak pricing or discounts.
+6. Revenue Insights:
+a. Calculate the total revenue generated during December.
+b. Analyze fare trends to understand the impact of peak pricing or discounts.
 
-7.Operational Efficiency:
--Evaluate average wait times and trip durations.
--Highlight inefficiencies in ride assignments or cancellations and suggest improvements.
+7. Operational Efficiency:
+a. Evaluate average wait times and trip durations.
+b. Highlight inefficiencies in ride assignments or cancellations and suggest improvements.
