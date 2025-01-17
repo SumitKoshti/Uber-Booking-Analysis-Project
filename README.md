@@ -1,5 +1,5 @@
 # Uber-Booking-Analysis-Project
-
+Full Dashboard - [See Full Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Q1YTMyMTYtNDQ2Yy00NDlmLWExZjctYjhkNWZhZTI1NDJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ![See Dashboard](Overall.jpg)
 The objective of this project is to analyze Uber booking data for Pune in December to uncover booking trends, cancellations, and high-demand areas. 
 It assesses driver performance, customer behavior, and revenue patterns while identifying inefficiencies. Insights will guide strategies to improve service quality, 
